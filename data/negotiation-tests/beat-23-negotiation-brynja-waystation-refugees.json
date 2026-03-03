@@ -1,0 +1,123 @@
+{
+  "_id": "I0pREeD4wYaA6hNe",
+  "name": "Beat 23 — Brynja Steinsdóttir / Waystation Refugees",
+  "type": "draw-steel-negotiation.negotiationTest",
+  "img": "icons/svg/combat.svg",
+  "system": {
+    "schemaVersion": 1,
+    "title": "Beat 23 — Brynja Steinsdóttir / Waystation Refugees",
+    "createdAtIso": "",
+    "createdByUserId": "",
+    "setup": {
+      "overview": "<p>On the edge of the interior lowlands, the party encounters a barn converted into a makeshift camp. Forty refugees — families, children, elderly, traders — led by Brynja Steinsdóttir, a former trade-caravan warden. An old man recognizes the party from earlier kindnesses (tie to a specific Act 1 or 2 event).</p><p>This is a <strong>light negotiation</strong> — prose-structured rather than fully mechanical. Brynja does the deciding; the old man vouches for the party. The key question: Will the refugees trust the party? Will they travel with them to Hrafnborg?</p><p><strong>Difficulty:</strong> Moderate. This is a social encounter with real consequences — refugees who travel with the party slow movement by 1 day and add 40+ people to the group entering a besieged city.</p><p><strong>Consequence on Success:</strong> If Brynja is fully convinced (Interest 4+), the refugees' organized logistics grant <strong>+1 to one Beat 25 Three-Crisis test</strong> of the party's choice.</p><p><strong>Oath Interactions:</strong> If the party swore Vigmund's Advocacy Oath (Beat 13), these refugees are the living embodiment of that promise. If they also swore the Silence Oath (Beat 17), the conflict sharpens — they know about a warm refuge and cannot speak of it.</p>",
+      "outcomes": {
+        "success": "<p><strong>Full Success (Interest reaches 4+):</strong> Brynja commits the refugees to the party's guidance. Forty people — organized, disciplined under Brynja's logistics — join the march to Hrafnborg. They slow the party by 1 day but their skills and organized morale grant <strong>+1 to one Beat 25 Three-Crisis test</strong>. Brynja becomes a named ally at Hrafnborg.</p>",
+        "partialSuccess": "<p><strong>Partial Success (Interest reaches 3):</strong> Brynja agrees to travel in the same direction but does not commit to the party's leadership. The refugees follow at a distance, arriving at Hrafnborg independently. No mechanical bonus, but the refugees are present in the siege — adding emotional weight and future recovery potential.</p>",
+        "failure": "<p><strong>Failure (Interest stays at 2 or lower):</strong> Brynja declines. The refugees continue on their own path — slower, more cautious, avoiding the siege ring entirely. They may arrive at Hrafnborg eventually, but not in time for the siege. No mechanical consequence, but the party has missed an opportunity to build their coalition before the walls.</p>"
+      },
+      "rulesProfileId": "draw-steel-v1.01b",
+      "structure": {
+        "kind": "freeform",
+        "maxRounds": null,
+        "stages": []
+      },
+      "visibility": {
+        "showNpcNames": true,
+        "showInterest": "value",
+        "showPatience": "value",
+        "showArgumentDetails": true,
+        "showRollTotals": true
+      },
+      "allowEditingPreviousEntries": false
+    },
+    "participants": [
+      {
+        "id": "Jv4nRxW8yHzKpQ2m",
+        "actorUuid": "",
+        "displayName": "Brynja Steinsdóttir (Refugee Leader)",
+        "kind": "npc",
+        "role": "",
+        "isActive": true,
+        "notesGM": "Former trade-caravan warden. Broad-shouldered, calloused hands, steady voice. Hasn't slept in days. Patience for empty reassurance is zero. She is the decider — the old man vouches for the party but she makes the call."
+      }
+    ],
+    "npcStateByParticipantId": {
+      "Jv4nRxW8yHzKpQ2m": {
+        "interest": {
+          "value": 2,
+          "min": 0,
+          "max": 5
+        },
+        "patience": {
+          "value": 3,
+          "min": 0,
+          "max": 3
+        },
+        "motivations": [
+          {
+            "id": "Kw5oSyX9zIaLqR3n",
+            "label": "Truth about what's happening at Hrafnborg — honest assessment, not reassurance",
+            "revealed": false
+          },
+          {
+            "id": "Lx6pTzY0AJbMrS4o",
+            "label": "Safety for the children — concrete plan, not vague promises",
+            "revealed": false
+          },
+          {
+            "id": "My7qUaZ1BKcNsT5p",
+            "label": "Confirmation that the northern lights (Green Heart glow) mean what they hope — that the Ever-Ember is renewed",
+            "revealed": false
+          }
+        ],
+        "pitfalls": [
+          {
+            "id": "Nz8rVbA2CLdOtU6q",
+            "label": "Empty reassurance — 'It'll be fine' (she has heard too many promises from people who fled)",
+            "revealed": false
+          },
+          {
+            "id": "Oa9sWcB3DMePuV7r",
+            "label": "Dismissiveness of their fear — minimizing what 40 people have survived for two weeks",
+            "revealed": false
+          },
+          {
+            "id": "Pb0tXdC4ENfQvW8s",
+            "label": "Urgency that tramples their need to be sure — rushing them into a decision they aren't ready for",
+            "revealed": false
+          }
+        ],
+        "discovered": {
+          "motivations": [],
+          "pitfalls": []
+        }
+      }
+    },
+    "timeline": [],
+    "resolution": {
+      "status": "notStarted",
+      "outcomeId": "",
+      "summaryPublic": "",
+      "summaryGM": "",
+      "resolvedAtIso": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "_id": "F7mOBbA1YjZr3vQx",
+  "name": "Beat 22 — Grénvörðr / Green Heart Audience",
+  "type": "draw-steel-negotiation.negotiationTest",
+  "img": "icons/svg/combat.svg",
+  "system": {
+    "schemaVersion": 1,
+    "title": "Beat 22 — Grénvörðr / Green Heart Audience",
+    "createdAtIso": "",
+    "createdByUserId": "",
+    "setup": {
+      "overview": "<p>The party has entered the Green Heart with Kaelen. The ancient elves — Grénvörðr, Síl, and Þrúðr — step from the canopy shadows to assess whether Kaelen's sacrifice is worthy of the grove's full participation. They are not hostile. They are <em>formal</em>. They need to hear from the party why Kaelen's transformation deserves the grove's blessing — the old Wyrd-language words that make the binding permanent.</p><p>This is the narrative pivot of the campaign. The elves will not permit the Green Heart to become a tomb of despair without certainty. If the party earns their full blessing, Kaelen's transformation is slow and she can speak her final words. Without it, the transformation is fast and incomplete — the locks hold but with cracks.</p><p><strong>Difficulty:</strong> Hard. Each argument is a power roll using Reason, Intuition, or Presence. Motivation appeals are medium difficulty; non-motivation arguments are difficult. Pitfalls are automatic failure (Interest −1, Patience −1).</p><p><strong>Special:</strong> Kaelen can speak for herself during this negotiation. If the party allows her to address the elves directly on the Willing Sacrifice motivation, grant an <strong>edge</strong> on that roll.</p>",
+      "outcomes": {
+        "success": "<p><strong>Full Success (Interest reaches 5):</strong> Grénvörðr and her companions place their hands on the central tree and speak the old Wyrd-language. The binding is <strong>perfect</strong> — restored to First Kindling density. Kaelen's transformation is <em>slow</em>: she has time to speak her final words as herself, looking at the people she loves. The Root-Shard of the Grove crystallizes at the base of the tree. The party receives the item and gains the full emotional weight of the farewell.</p>",
+        "partialSuccess": "<p><strong>Partial Success (Interest reaches 4):</strong> Grénvörðr accepts with reservations. \"The grove permits this. The roots are willing. But the old words will not be spoken.\" The binding holds but is not perfect — it requires tending and vigilance in Acts 4–5. Kaelen's transformation is faster — almost violent. She has time for one word, maybe two. A name. A promise. But not a goodbye. The Root-Shard still crystallizes. The locks hold, but with fragility.</p>",
+        "failure": "<p><strong>Failure (Interest never reaches 4):</strong> Grénvörðr and her companions withdraw into the canopy. \"The grove withdraws its hospitality. You may surrender your flame to the roots if you must. They will hold it, out of necessity. But without our blessing, the binding is <em>weak</em>.\" The transformation proceeds but the seal is temporary — years or decades, not centuries. Kaelen knows this. Lew's face becomes like stone. The Root-Shard still crystallizes but is dimmer. In the Grafvitnir encounter (Beat 26), the Grafvitnir's binding phase takes 5 rounds instead of 4.</p>"
+      },
+      "rulesProfileId": "draw-steel-v1.01b",
+      "structure": {
+        "kind": "freeform",
+        "maxRounds": null,
+        "stages": []
+      },
+      "visibility": {
+        "showNpcNames": true,
+        "showInterest": "value",
+        "showPatience": "value",
+        "showArgumentDetails": true,
+        "showRollTotals": true
+      },
+      "allowEditingPreviousEntries": false
+    },
+    "participants": [
+      {
+        "id": "Gv3nRxW8yHzKpQ2m",
+        "actorUuid": "",
+        "displayName": "Grénvörðr (Elder of the Green Heart)",
+        "kind": "npc",
+        "role": "",
+        "isActive": true,
+        "notesGM": "Ancient elf-adjacent being. Keeper of the grove's threshold. Accompanied by Síl and Þrúðr. Speaks in questions, measures time in centuries. Not hostile — assessing."
+      }
+    ],
+    "npcStateByParticipantId": {
+      "Gv3nRxW8yHzKpQ2m": {
+        "interest": {
+          "value": 3,
+          "min": 0,
+          "max": 5
+        },
+        "patience": {
+          "value": 3,
+          "min": 0,
+          "max": 3
+        },
+        "motivations": [
+          {
+            "id": "Hx4oSyX9zIaLqR3n",
+            "label": "The Willing Sacrifice — Kaelen chose this freely, without coercion, in duty not despair (Grénvörðr asks: 'Was this choice made in despair, or in duty?')",
+            "revealed": false
+          },
+          {
+            "id": "Iy5pTzY0AJbMrS4o",
+            "label": "The World's Future — if the locks fail, Grafvitnir walks, Helheim opens, everything ends; this is not a cycle but an ending (Grénvörðr asks: 'What makes you believe this is the end of endings?')",
+            "revealed": false
+          },
+          {
+            "id": "Jz6qUaZ1BKcNsT5p",
+            "label": "The Old Compact — the First Keepers' covenant with the Green Heart's elves; invoking it shifts Grénvörðr's entire demeanor ('She comes not as a stranger. She comes as the Compact promised.')",
+            "revealed": false
+          }
+        ],
+        "pitfalls": [
+          {
+            "id": "Ka7rVbA2CLdOtU6q",
+            "label": "Urgency, pressure, or impatience — 'We need to do this now' disrespects beings who measure time in centuries (eyes go cold: 'Time is not a resource we lack.')",
+            "revealed": false
+          },
+          {
+            "id": "Lb8sWcB3DMePuV7r",
+            "label": "Instrumentalizing the grove — suggesting it is damaged, failing, or a tool to be used (moss goes still, stream stops: 'The grove is not a tool. It is alive.')",
+            "revealed": false
+          },
+          {
+            "id": "Mc9tXdC4ENfQvW8s",
+            "label": "Claiming false authority — 'The King demands this' or invoking powers the party does not command (voice drops: 'Kings are dust. What do *you* command?')",
+            "revealed": false
+          }
+        ],
+        "discovered": {
+          "motivations": [],
+          "pitfalls": []
+        }
+      }
+    },
+    "timeline": [],
+    "resolution": {
+      "status": "notStarted",
+      "outcomeId": "",
+      "summaryPublic": "",
+      "summaryGM": "",
+      "resolvedAtIso": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  }
+}
