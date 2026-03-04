@@ -1,0 +1,58 @@
+{
+  "id": "svellheim-act3",
+  "title": "Svellheim: Act 3 — The Burning",
+  "description": "Act 3 of the Svellheim campaign for the Draw Steel system. Contains montage tests, negotiation tests, player journals, and director journals for The Burning storyline.",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Bruce A. Moser"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "draw-steel"
+      }
+    ],
+    "requires": [
+      {
+        "id": "svellheim-entities",
+        "type": "module"
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "svellheim-montage-tests",
+      "label": "Svellheim Act 3: Montage Tests",
+      "path": "packs/svellheim-montage-tests",
+      "type": "Item",
+      "system": "draw-steel"
+    },
+    {
+      "name": "svellheim-negotiation-tests",
+      "label": "Svellheim Act 3: Negotiation Tests",
+      "path": "packs/svellheim-negotiation-tests",
+      "type": "Item",
+      "system": "draw-steel"
+    },
+    {
+      "name": "svellheim-player-journals",
+      "label": "Svellheim Act 3: Player Journals",
+      "path": "packs/svellheim-player-journals",
+      "type": "JournalEntry",
+      "system": "draw-steel"
+    },
+    {
+      "name": "svellheim-director-journals",
+      "label": "Svellheim Act 3: Director Journals",
+      "path": "packs/svellheim-director-journals",
+      "type": "JournalEntry",
+      "system": "draw-steel"
+    }
+  ]
+}
