@@ -1,23 +1,11 @@
 # Svellheim: Act 3 — The Burning
 
-A **Foundry VTT** module for the [Draw Steel](https://mcdmproductions.com) system.  
-Contains montage tests, negotiation tests, player journals, and director journals for **Act 3** of the Svellheim campaign.
+A Foundry VTT content module for the [Draw Steel](https://mcdm.gg/DrawSteel) system containing montage tests, negotiation tests, player journals, and director journals for **Act 3** of the Svellheim campaign.
 
-## Installation
+![Foundry VTT v13](https://img.shields.io/badge/Foundry_VTT-v13-informational)
+![Draw Steel System](https://img.shields.io/badge/System-Draw_Steel-orange)
 
-1. In Foundry VTT, go to **Add-on Modules → Install Module**.
-2. Paste the manifest URL:
-   ```
-   https://github.com/bruceamoser/Svellheim-Act3/releases/latest/download/module.json
-   ```
-3. Click **Install**.
-
-## Dependencies
-
-| Module | Required |
-|---|---|
-| [Draw Steel](https://github.com/MetaMorphic-Digital/draw-steel) (system) | Yes |
-| [Svellheim: Entities](https://github.com/bruceamoser/Svellheim-Entities) | Yes |
+---
 
 ## Compendium Packs
 
@@ -28,23 +16,53 @@ Contains montage tests, negotiation tests, player journals, and director journal
 | Svellheim Act 3: Player Journals | JournalEntry | Player handout journals |
 | Svellheim Act 3: Director Journals | JournalEntry | GM-facing director journals |
 
-## Repository Structure
+## Requirements
+
+| Requirement | Version |
+|---|---|
+| [Foundry VTT](https://foundryvtt.com/) | v11+ (verified v13) |
+| [Draw Steel System](https://github.com/MetaMorphic-Digital/draw-steel) | Any |
+| [Svellheim: Entities](https://github.com/bruceamoser/Svellheim-Entities) | v0.1.0+ |
+
+This module **only** works with the Draw Steel system.
+
+## Installation
+
+### Manifest URL (recommended)
+
+1. In Foundry VTT, go to **Settings → Manage Modules → Install Module**.
+2. Paste the manifest URL into the **Manifest URL** field:
+   ```
+   https://github.com/bruceamoser/Svellheim-Act3/releases/latest/download/module.json
+   ```
+3. Click **Install**.
+
+### Manual
+
+1. Download the latest release zip from the [Releases](https://github.com/bruceamoser/Svellheim-Act3/releases) page.
+2. Extract the zip into your Foundry `Data/modules/` folder. The folder should be named `svellheim-act3`.
+3. Restart Foundry and enable the module in your Draw Steel world.
+
+## File Structure
 
 ```
-data/                 Source JSON files
-  montage-tests/      Montage test definitions
-  negotiation-tests/  Negotiation definitions
-  player-journals/    Player handout journals
-  director-journals/  Director (GM) journals
-module/packs/         Compiled Foundry VTT LevelDB packs
-tools/                Build scripts
+svellheim-act3/
+├── module.json                       # Module manifest
+├── data/
+│   ├── montage-tests/                # Montage test source JSON
+│   ├── negotiation-tests/            # Negotiation source JSON
+│   ├── player-journals/              # Player handout journals
+│   └── director-journals/            # Director (GM) journals
+├── tools/                            # Build scripts
+└── README.md
 ```
 
-## Version
+## License
 
-Current release: **v0.1.1**  
-Compatibility: Foundry VTT v11 – v13
+Content is setting-specific homebrew for Draw Steel by MCDM Productions. Draw Steel is a trademark of MCDM Productions, LLC.
 
-## Author
+## Acknowledgements
 
-Bruce A. Moser
+- [Foundry VTT](https://foundryvtt.com/) — Virtual tabletop platform.
+- [Draw Steel](https://mcdm.gg/DrawSteel) by MCDM Productions — The RPG system this module supports.
+- [MetaMorphic Digital](https://github.com/MetaMorphic-Digital/draw-steel) — Draw Steel system implementation for Foundry VTT.
