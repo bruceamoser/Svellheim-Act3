@@ -35,6 +35,70 @@
       }
     },
     {
+      "_id": "Pm7nVwX1kLqR3yJo",
+      "name": "Beat 20a — The Keeper's Confession",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 20a — The Keeper's Confession</h2><p><strong>Level:</strong> 5 &nbsp;|&nbsp; <strong>Source:</strong> <code>Act-3/20a-The-Keepers-Confession.adoc</code></p><div style=\"background:#1a1a3a; color:#c8c8e8; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #4a4ac8;\"><p style=\"margin:0;\"><strong>VP Status — Entering This Beat</strong> — <strong>Total VP (max):</strong> 57 | <strong>Level:</strong> 5 | <strong>VP into Level:</strong> 1</p></div><h3>Overview</h3><p>At the Steam-Oasis rest stop, an 87-year-old Heitfolk tunnel record keeper named <strong>Dagný</strong> approaches the party. She has carried a secret for twenty-three years: she was present when Eirik Hallvardsson — Kaelen's disappeared Keeper-brother, believed dead — came through the Steam-Oasis, changed and accompanied by one of Grafvitnir's early instruments. She watched him leave. She helped him disappear. She has never told anyone.</p><p>She is not confessing for herself. She is confessing because Kaelen's presence — the new Ever-Ember, walking south — means something. And she does not want to carry the truth into her grave.</p><h3>Dagný</h3><ul><li><strong>Age:</strong> 87 (Heitfolk lifespans run 120–140 years; she is late-middle-aged in Heitfolk terms, but ancient in human reckoning)</li><li><strong>Role:</strong> Third-generation tunnel record keeper at the Steam-Oasis branch of the Heitfolk deep network</li><li><strong>Affect:</strong> Deliberate, quiet, unhurried. She moves slowly but with purpose. She is not afraid of silence.</li><li><strong>What she knows:</strong> Eirik arrived from the east, moving fast. His companion — she did not know its name — spoke in Root-language fragments. Eirik's affect was wrong: too still, eyes tracking differently, warmth gone from his skin. He looked back at her when he left — just once — and she has spent twenty-three years deciding what that look meant.</li></ul><div style=\"background:#2a1a2a;color:#d0c0d0;padding:10px 14px;margin:10px 0;border-radius:4px;border-left:4px solid #9944aa;\"><strong>Director Secret — What Eirik's Look Meant:</strong> Eirik was not fully Root-Hollowed when he passed through the Steam-Oasis. The companion was leading him west, toward the Rot-line. But in that last look, something of him was still present — aware enough to register shame, or apology, or grief. He was not yet gone. He chose to keep walking anyway. That choice is the tragedy Kaelen must eventually reckon with.</div><h3>Negotiation — Dagný's Trust</h3><div style=\"background:#1a3a1a; color:#c8e8c8; padding:10px 14px; margin:10px 0; border-radius:4px; border-left:4px solid #4ac84a;\"><p style=\"margin:0;\"><strong>Victory Points —</strong> <strong>Type:</strong> Negotiation | <strong>Difficulty:</strong> Moderate (I3/P3) | <strong>VP Award:</strong> 1 VP mandatory + 1 VP optional (Kaelen speaks)</p></div><p><strong>Interest:</strong> 3 | <strong>Patience:</strong> 3 | <strong>Target:</strong> Interest 5 for full telling</p><p><strong>3 Motivations:</strong></p><ol><li><strong>Healing the Wound, Not Reopening It</strong> — Approach as receivers of truth, not investigators. She wants Kaelen to have peace, not the party to have intelligence.</li><li><strong>The Burden of Keeping</strong> — She has kept records her whole life. She was forced to keep this one wrong. Understanding what it means to carry a secret you were told to keep.</li><li><strong>The Human Truth of Eirik</strong> — She does not believe he was evil. Something bad happened to him. Engage with him as a complicated person, not a villain.</li></ol><p><strong>3 Pitfalls (automatic Interest −1, Patience −1):</strong></p><ol><li><strong>Urgency and pressure</strong> — She came to them. Rushing her is the fastest way to lose her.</li><li><strong>Vengeance framing</strong> — If the party wants Eirik's story as a weapon, she stops.</li><li><strong>Dismissing Kaelen's state</strong> — She came specifically because of Kaelen. Treating Kaelen's drift as an inconvenience closes Dagný down.</li></ol><p><strong>Special:</strong> If Kaelen speaks during the negotiation — even a word, even just her name or a Root-language word — Dagný's Interest immediately becomes 5 regardless of other results. Patience +1. Kaelen speaking is the bypass.</p><h3>The Revelation</h3><p>On full success, Dagný tells everything: Eirik's arrival, his companion (early Root-Hollowed), his changed state, his departure west toward the Rot-line, and the look at the end. <em>\"He asked me not to tell anyone he'd been there. His companion did the asking. But Eirik looked at me with his own face, just once, at the end — and I think he was saying something different.\"</em></p><p>After she finishes, she is quiet for a long time. Then she gets up, thanks the party for listening, and walks back toward the Steam-Oasis. She does not look back.</p><h3>Kaelen's Response</h3><p>Kaelen, if coherent, does not speak immediately. She sits with it. This is the first confirmation that Eirik <em>happened</em> — not a legend, not a gap in the record, not her guilt. He was real, he was changed, and he kept walking. Whatever she does with that knowledge belongs to her alone.</p><div style=\"background:#f5f0e6; color:#2a2a2a; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #4ac84a;\"><h4 style=\"margin-top:0; color:#2a6a2a;\">Beat 20a — Victory Point Summary</h4><table style=\"width:100%; border-collapse:collapse; margin:8px 0; color:#2a2a2a;\"><thead><tr style=\"background:#c0e0c0;\"><th style=\"padding:6px 8px; text-align:left;\">Event</th><th style=\"padding:6px 8px; text-align:left;\">Difficulty</th><th style=\"padding:6px 8px; text-align:left;\">VP Award</th></tr></thead><tbody><tr><td style=\"padding:6px 8px; color:#2a2a2a;\">Dagný Negotiation (Moderate I3/P3)</td><td style=\"padding:6px 8px; color:#2a2a2a;\">Moderate</td><td style=\"padding:6px 8px; color:#2a2a2a;\">1 VP</td></tr><tr><td style=\"padding:6px 8px; color:#2a2a2a;\">Kaelen Speaks During Negotiation (optional)</td><td style=\"padding:6px 8px; color:#2a2a2a;\">—</td><td style=\"padding:6px 8px; color:#2a2a2a;\">1 VP</td></tr><tr style=\"background:#98cc98;\"><td style=\"padding:6px 8px; color:#1a2a1a; font-weight:bold;\">Beat Total (Mandatory + Optional Max)</td><td></td><td style=\"padding:6px 8px; color:#1a2a1a; font-weight:bold;\">1–2 VP</td></tr></tbody></table></div><h3>Transition to Beat 20b</h3><p>The party departs the Steam-Oasis with more weight than they arrived with. Kaelen is quiet. The Bone-Fields approach begins — and somewhere in the calcified terrain ahead, the root-network is already reaching toward the new Ever-Ember.</p><p><em>Proceed to Beat 20b: The Ember's Gift.</em></p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 15,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Qn8oWxY2lMrS4zKp",
+      "name": "Beat 20b — The Ember's Gift",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 20b — The Ember's Gift</h2><p><strong>Level:</strong> 5 &nbsp;|&nbsp; <strong>Source:</strong> <code>Act-3/20b-The-Embers-Gift.adoc</code></p><div style=\"background:#1a1a3a; color:#c8c8e8; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #4a4ac8;\"><p style=\"margin:0;\"><strong>VP Status — Entering This Beat</strong> — <strong>Total VP (max):</strong> 59 | <strong>Level:</strong> 5 | <strong>VP into Level:</strong> 3</p></div><h3>Overview</h3><p>On the Bone-Fields approach — calcified terrain west of the Steam-Oasis — Kaelen stops. A root-tendril has surfaced in the frozen ground. She kneels on it without being told to, without explaining why. She is not in drift. She is listening to something the party cannot hear.</p><p>The root-network is offering a memory. Not a vision in the sense of prophecy — a <em>record</em>. The warmth that held the barrier for twelve years before Kaelen was brought to the Emberwell. What broke. What the push-away actually was.</p><h3>The Vision</h3><div style=\"background:#2a1a2a;color:#d0c0d0;padding:10px 14px;margin:10px 0;border-radius:4px;border-left:4px solid #9944aa;\"><strong>Director Secret — The Root-Memory Content:</strong> Twelve years before the Emberwell, the Ever-Ember before Kaelen was failing. The warmth-seed was dimming. The barrier was holding — barely. And Ember (the previous Ever-Ember) was spending her last reserves not maintaining the barrier, but preparing for what came after. She found Kaelen when Kaelen was seven years old. Touched the child's shoulder at a Keeper ceremony. Left a warmth-impression in the root-network: <em>this one, when the time comes.</em> For twelve years she maintained the barrier with the specific intention that Kaelen would be ready when it broke. The push-away — the disorientation, the flood of Root-visions, the feeling of being expelled — was the last thing Ember did before she became the barrier entirely. She gave Kaelen enough Root-knowledge to find the Emberwell later, enough disorientation to flee before the weight came down on her, and enough warmth-impression in the roots to be called home when the seal needed renewing. It was not abandonment. It was the most careful protection possible from someone who had no time left for gentleness. <strong>What Kaelen experiences:</strong> Not words. Not images. The emotional content of twelve years — care, calculation, grief, hope, the specific warmth of something that gives rather than takes. She feels held. She feels chosen. She feels the difference between being pushed away and being set free to return whole.</div><h3>The Anchoring Scene — Two Skill Checks</h3><div style=\"background:#1a3a1a; color:#c8e8c8; padding:10px 14px; margin:10px 0; border-radius:4px; border-left:4px solid #4ac84a;\"><p style=\"margin:0;\"><strong>Victory Points —</strong> <strong>Type:</strong> Skill Challenge | <strong>Difficulty:</strong> 2 checks | <strong>VP Award:</strong> 2 VP (both succeed) / 1 VP (one succeeds) / 0 VP (both fail)</p></div><p>While Kaelen receives the root-memory, the party must perform two actions simultaneously:</p><p><strong>Challenge 1 — Keep the Fire Safe (Reason TN 13 or Agility TN 12):</strong> Root-tendril warmth draws the Rot-residue in the bone-field toward Kaelen's glow. Someone must manage the perimeter — not fighting, but moving carefully, maintaining the barrier of warm ground around her.</p><p><strong>Challenge 2 — Keep Kaelen Tethered (Presence TN 13 or Intuition TN 13):</strong> The vision is pulling her deeper. Without an anchor — a voice, a hand, a specific word — she might not find the surface again. Presence (call her back by voice and warmth) or Intuition (sense the right moment to pull, neither too early nor too late).</p><p><strong>Both succeed:</strong> Kaelen returns in 20 minutes, coherent, with new behavioral patterns. 2 VP. <strong>One succeeds:</strong> Kaelen returns but is exhausted; one hero takes a condition. 1 VP. <strong>Both fail:</strong> Kaelen returns after 45 minutes in increasing Rot-exposure; party takes 1 Rot-sickness condition each; Kaelen has the memory but is shaken. 0 VP.</p><h3>Kaelen After the Vision</h3><p>Kaelen's behavioral patterns change after this beat:</p><ul><li>During subsequent drift-periods, she holds Lew's hand (even though Lew is not present — she reaches for the space where he was).</li><li>She occasionally reports things through the root-network: <em>\"Someone is moving east of the Rot-line. Not draugr. Organized.\"</em></li><li>She is more peaceful in drift. Less like someone lost, more like someone listening to something far away.</li><li>In her last lucid moments before the Green Heart, she may say: <em>\"She held on for twelve years. I can hold for twelve more.\"</em></li></ul><div style=\"background:#f5f0e6; color:#2a2a2a; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #4ac84a;\"><h4 style=\"margin-top:0; color:#2a6a2a;\">Beat 20b — Victory Point Summary</h4><table style=\"width:100%; border-collapse:collapse; margin:8px 0; color:#2a2a2a;\"><thead><tr style=\"background:#c0e0c0;\"><th style=\"padding:6px 8px; text-align:left;\">Event</th><th style=\"padding:6px 8px; text-align:left;\">Difficulty</th><th style=\"padding:6px 8px; text-align:left;\">VP Award</th></tr></thead><tbody><tr><td style=\"padding:6px 8px; color:#2a2a2a;\">Two Anchoring Skill Checks</td><td style=\"padding:6px 8px; color:#2a2a2a;\">Moderate (TN 12–13)</td><td style=\"padding:6px 8px; color:#2a2a2a;\">up to 2 VP</td></tr><tr style=\"background:#98cc98;\"><td style=\"padding:6px 8px; color:#1a2a1a; font-weight:bold;\">Beat Total (Mandatory)</td><td></td><td style=\"padding:6px 8px; color:#1a2a1a; font-weight:bold;\">up to 2 VP</td></tr></tbody></table></div><h3>Transition to Beat 21</h3><p>The root-tendril goes cold. Kaelen stands. She does not explain what she saw. She picks up her pack and continues walking west — steadier than before, warmer than before, more purposeful than before.</p><p><em>Proceed to Beat 21: Through the Graveyard.</em></p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 16,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    },
+    {
       "_id": "qR8tXaZ5mNoQ7wDv",
       "name": "Beat 21 — Through the Graveyard",
       "type": "text",
@@ -103,6 +167,38 @@
         "markdown": ""
       },
       "sort": 40,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "draw-steel",
+        "systemVersion": "0.10.0",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Ro9pXyZ3mNsT5aLq",
+      "name": "Beat 23a — Night of Hunters",
+      "type": "text",
+      "text": {
+        "content": "<h2>Beat 23a — Night of Hunters</h2><p><strong>Level:</strong> 6–7 &nbsp;|&nbsp; <strong>Source:</strong> <code>Act-3/23a-Night-of-Hunters.adoc</code></p><div style=\"background:#1a1a3a; color:#c8c8e8; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #4a4ac8;\"><p style=\"margin:0;\"><strong>VP Status — Entering This Beat</strong> — <strong>Total VP (max):</strong> 66 | <strong>Level:</strong> 6 | <strong>VP into Level:</strong> 2</p></div><h3>Overview</h3><p>Grafvitnir has sent Rot-Forged Sentinels against the party. This is his first direct, personal, intentional act. Every threat before this was impersonal — the Rot spreads because spreading is what it does. These move because of <em>intent</em>. They were sent.</p><p>The Sentinels find the party on the second night after departing the Ashen Road. The party may be travelling with Brynja's forty refugees. The encounter happens at night; the hunted-march begins immediately after.</p><h3>The Approach</h3><p>One Sentinel stands at the treeline northeast, watching the camp for three full minutes. Then it walks forward — deliberate, unhurried. A second appears 20 feet to the left. A third is a suggestion in the darkness further back. They do not run. Grafvitnir wants the party to understand this is not random. This is a message.</p><h3>Encounter — Rot-Forged Sentinels (Hard)</h3><div style=\"background:#1a3a1a; color:#c8e8c8; padding:10px 14px; margin:10px 0; border-radius:4px; border-left:4px solid #4ac84a;\"><p style=\"margin:0;\"><strong>Victory Points —</strong> <strong>Type:</strong> Hard Combat Encounter | <strong>VP Award:</strong> 1 VP</p></div><p><strong>Enemies:</strong> 1 Rot-Forged Sentinel Brute (Level 6) — northeast, direct approach. 1 Rot-Forged Sentinel Harrier (Level 6) — north, flanker, goal: reach refugee shelter. 1 Rot-Forged Sentinel Relay (Level 6, contingent) — retreats if party handles the first two confidently; advances if party struggles.</p><p><strong>Brynja's role:</strong> She organizes the civilian column immediately, positions refugees behind the stone-walled shelter, holds the doorway herself. She does not ask the party for instructions. If the Harrier reaches the shelter, Brynja takes a near-miss — alive but injured. One refugee is struck seriously. Cost is real and lasting.</p><div style=\"background:#2a1a2a;color:#d0c0d0;padding:10px 14px;margin:10px 0;border-radius:4px;border-left:4px solid #9944aa;\"><strong>Director Secret — Grafvitnir's Message:</strong> When the first Sentinel is below half Stamina, or if the party attempts communication, Grafvitnir speaks through the root-network — not from the Sentinel's mouth, but from the same place dreams come from. <em>\"You have changed the flame. I felt it. The lock was almost open. Almost. A decade of patience, and then — a warmth where there should have been none. She walked in. She became the wall. You did that. The ones who walk with the light. I wanted you to know that I see you. I am very patient. But now I am also watching.\"</em> This is not a negotiation. Grafvitnir does not want anything from them. He is announcing: <em>I see you. You are not invisible to me.</em> Do not have him threaten, demand, or explain further. The sentence that matters is the last one.</div><h3>Night-March Montage — Hard</h3><div style=\"background:#1a3a1a; color:#c8e8c8; padding:10px 14px; margin:10px 0; border-radius:4px; border-left:4px solid #4ac84a;\"><p style=\"margin:0;\"><strong>Victory Points —</strong> <strong>Type:</strong> Montage Test | <strong>Difficulty:</strong> Hard (SL 6 / FL 3, 2 rounds) | <strong>VP Award:</strong> 2 VP success / 1 VP partial / 0 VP failure</p></div><p>After the encounter, the party moves at night to disrupt the Sentinels' tracking. The montage represents the night-march with ~40 refugees through unfamiliar ground in the dark.</p><p><strong>Round 1 challenges:</strong> Navigate by dead-reckoning (no moon, overcast) | Move forty people quietly through broken ground | Manage exhausted companions after combat | Watch the rear — did the Relay reform? | Find water and shelter-break for children | Keep the Root-Shard from broadcasting through the root-network.</p><p><strong>Round 1 Interlude — The Stars:</strong> Clouds part for thirty seconds. The party sees the Green Heart blazing amber on the northeastern horizon. One of the refugee children asks: <em>\"Is that it? Is that what we're going to?\"</em> No one corrects her. Brynja puts her hand on the child's head, just for a moment, and then gets the column moving again.</p><p><strong>Round 2 challenges:</strong> Push through the pre-dawn cold (worst hour) | Scout forward — something has crossed recently ahead | Hold the rear-guard through the last known Sentinel zone | Get the column across the frozen tributary | Spot the Djupá approach ridge before committing to a path | Re-count everyone.</p><p><strong>Round 2 Interlude — Dawn at the Ridge:</strong> The party reaches the ridge above the Djupá valley at dawn. All forty people made it (or didn't — count the survivors). Far below: a figure on the road. Too deliberate to be accidental. <em>Dreyfus.</em></p><div style=\"background:#f5f0e6; color:#2a2a2a; padding:12px 16px; margin:12px 0; border-radius:4px; border-left:4px solid #4ac84a;\"><h4 style=\"margin-top:0; color:#2a6a2a;\">Beat 23a — Victory Point Summary</h4><table style=\"width:100%; border-collapse:collapse; margin:8px 0; color:#2a2a2a;\"><thead><tr style=\"background:#c0e0c0;\"><th style=\"padding:6px 8px; text-align:left;\">Event</th><th style=\"padding:6px 8px; text-align:left;\">Difficulty</th><th style=\"padding:6px 8px; text-align:left;\">VP Award</th></tr></thead><tbody><tr><td style=\"padding:6px 8px; color:#2a2a2a;\">Rot-Forged Sentinel Combat</td><td style=\"padding:6px 8px; color:#2a2a2a;\">Hard</td><td style=\"padding:6px 8px; color:#2a2a2a;\">1 VP</td></tr><tr><td style=\"padding:6px 8px; color:#2a2a2a;\">Night-March Montage (Hard, SL 6 / FL 3)</td><td style=\"padding:6px 8px; color:#2a2a2a;\">Hard</td><td style=\"padding:6px 8px; color:#2a2a2a;\">up to 2 VP</td></tr><tr style=\"background:#98cc98;\"><td style=\"padding:6px 8px; color:#1a2a1a; font-weight:bold;\">Beat Total (Mandatory)</td><td></td><td style=\"padding:6px 8px; color:#1a2a1a; font-weight:bold;\">3 VP</td></tr></tbody></table></div><h3>Transition to Beat 24</h3><p>The Djupá valley is below. Dreyfus is on the road. The refugees are exhausted. Hrafnborg is beyond him. The road ahead is the last road.</p><p><em>Proceed to Beat 24: The Shape-Walker's Road.</em></p>",
+        "format": 1,
+        "markdown": null
+      },
+      "src": null,
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "sort": 45,
       "flags": {},
       "ownership": {
         "default": 0
