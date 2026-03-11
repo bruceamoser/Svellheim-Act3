@@ -1,0 +1,123 @@
+{
+  "_id": "Sn1qPwR7vMxK4bZc",
+  "name": "Beat 20a — Dagný / The Keeper's Confession",
+  "type": "draw-steel-negotiation.negotiationTest",
+  "img": "icons/svg/combat.svg",
+  "system": {
+    "schemaVersion": 1,
+    "title": "Beat 20a — Dagný / The Keeper's Confession",
+    "createdAtIso": "",
+    "createdByUserId": "",
+    "setup": {
+      "overview": "<p>At the Steam-Oasis rest stop, an 87-year-old Heitfolk tunnel record keeper named <strong>Dagný</strong> approaches the party. She has carried a secret for twenty-three years: she was present when Eirik Hallvardsson — Kaelen's disappeared Keeper-brother, believed dead — came through the Steam-Oasis, changed and accompanied by one of Grafvitnir's early instruments. She watched him leave. She helped him disappear. She has never told anyone.</p><p>She is not confessing for herself. She is confessing because Kaelen's presence — the new Ever-Ember, walking south — means something. She does not want to carry the truth into her grave.</p><p><strong>Difficulty:</strong> Moderate (Interest 3, Patience 3). Target: Interest 5 for the full telling.</p><p><strong>Special Rule:</strong> If Kaelen speaks during the negotiation — even a word, even just her name or a Root-language word — Dagný's Interest immediately becomes 5 regardless of where it stands. Patience +1. This is the bypass. The negotiation system cannot be lost once Kaelen speaks.</p><p><strong>VP Award:</strong> 1 VP mandatory (negotiation succeeds) + 1 VP optional (Kaelen speaks at any point during the scene).</p>",
+      "outcomes": {
+        "success": "<p><strong>Full Success (Interest reaches 5):</strong> Dagný tells everything — Eirik's arrival from the east, his changed state, his unnamed companion (early Root-Hollowed speaking in Root-language fragments), his departure west toward the Rot-line, and the look at the end. <em>\"He asked me not to tell anyone he'd been there. His companion did the asking. But Eirik looked at me with his own face, just once, at the end — and I think he was saying something different.\"</em> After she finishes, she sits in silence for a long time, then thanks the party and walks back toward the Steam-Oasis. She does not look back. Mandatory VP awarded.</p>",
+        "partialSuccess": "<p><strong>Partial Success (Interest reaches 3–4):</strong> Dagný gives the broad strokes — that a Keeper matching Eirik's description passed through, that she helped him continue west, that he was not alone. She does not share the look at the end. She closes down before the personal details. The party gains enough to know Eirik was real and was present here, but not the emotional truth that Kaelen needs. Mandatory VP awarded.</p>",
+        "failure": "<p><strong>Failure (Interest stays at 2 or below):</strong> Dagný withdraws. She thanks them for listening and leaves. She may try again if the party approaches better — but she does not open this door a second time today. She is not angry. She is tired. No VP awarded from the negotiation (Kaelen's optional VP still available if Kaelen spoke).</p>"
+      },
+      "rulesProfileId": "draw-steel-v1.01b",
+      "structure": {
+        "kind": "freeform",
+        "maxRounds": null,
+        "stages": []
+      },
+      "visibility": {
+        "showNpcNames": true,
+        "showInterest": "value",
+        "showPatience": "value",
+        "showArgumentDetails": true,
+        "showRollTotals": true
+      },
+      "allowEditingPreviousEntries": false
+    },
+    "participants": [
+      {
+        "id": "Tn2rQxS8wNyL5cAd",
+        "actorUuid": "",
+        "displayName": "Dagný (Heitfolk Tunnel Record Keeper)",
+        "kind": "npc",
+        "role": "",
+        "isActive": true,
+        "notesGM": "Age 87. Third-generation tunnel record keeper at the Steam-Oasis branch of the Heitfolk deep network. Deliberate, quiet, unhurried. She moves slowly but with purpose. She is not afraid of silence. She came to them — which means she has already decided this is the right thing. The task is not to convince her to speak; it is to not give her a reason to stop."
+      }
+    ],
+    "npcStateByParticipantId": {
+      "Tn2rQxS8wNyL5cAd": {
+        "interest": {
+          "value": 3,
+          "min": 0,
+          "max": 5
+        },
+        "patience": {
+          "value": 3,
+          "min": 0,
+          "max": 3
+        },
+        "motivations": [
+          {
+            "id": "Un3sTyT9xOzM6dBe",
+            "label": "Healing the Wound, Not Reopening It — approach as receivers of truth, not investigators; she wants Kaelen to have peace, not the party to have intelligence",
+            "revealed": false
+          },
+          {
+            "id": "Vn4tUzU0yPaN7eCf",
+            "label": "The Burden of Keeping — she has kept records her whole life, and was forced to keep this one wrong; acknowledging what it means to carry a secret you were told to keep",
+            "revealed": false
+          },
+          {
+            "id": "Wn5uVaV1zQbO8fDg",
+            "label": "The Human Truth of Eirik — she does not believe he was evil; something bad happened to him; engage with him as a complicated person, not a monster or a villain",
+            "revealed": false
+          }
+        ],
+        "pitfalls": [
+          {
+            "id": "Xn6vWbW2aRcP9gEh",
+            "label": "Urgency and pressure — she came to them; rushing her is the fastest way to lose her; she has waited twenty-three years for this and can wait longer",
+            "revealed": false
+          },
+          {
+            "id": "Yn7wXcX3bSdQ0hFi",
+            "label": "Vengeance framing — if the party wants Eirik's story as a weapon or intelligence asset, she stops; she is not arming the party against someone she watched walk away in pain",
+            "revealed": false
+          },
+          {
+            "id": "Zn8xYdY4cTeR1iGj",
+            "label": "Dismissing Kaelen's state — she came specifically because of Kaelen; treating Kaelen's drift as an inconvenience or a problem rather than the reason this conversation matters closes Dagný down",
+            "revealed": false
+          }
+        ],
+        "discovered": {
+          "motivations": [],
+          "pitfalls": []
+        }
+      }
+    },
+    "timeline": [],
+    "resolution": {
+      "status": "notStarted",
+      "outcomeId": "",
+      "summaryPublic": "",
+      "summaryGM": "",
+      "resolvedAtIso": ""
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "draw-steel",
+    "systemVersion": "0.10.0",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  }
+}
